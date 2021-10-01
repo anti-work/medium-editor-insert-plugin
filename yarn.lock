@@ -325,29 +325,29 @@ bluebird@^3.5.1, bluebird@^3.5.3, bluebird@^3.5.5:
   resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.7.2.tgz#9f229c15be272454ffa973ace0dbee79a1b0c36f"
   integrity sha512-XpNj6GDQzdfW+r2Wnn7xiSAd7TM3jzkxGXBGTtWKuSXv1xUV+azxAm8jdWZN06QTQk+2N2XB9jRDkvbmQmcRtg==
 
-blueimp-canvas-to-blob@3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/blueimp-canvas-to-blob/-/blueimp-canvas-to-blob-3.5.0.tgz#5679ac32f6a2835821f0c3ad661719ff85a9236b"
-  integrity sha1-VnmsMvaig1gh8MOtZhcZ/4WpI2s=
+blueimp-canvas-to-blob@3:
+  version "3.29.0"
+  resolved "https://registry.yarnpkg.com/blueimp-canvas-to-blob/-/blueimp-canvas-to-blob-3.29.0.tgz#d965f06cb1a67fdae207a2be56683f55ef531466"
+  integrity sha512-0pcSSGxC0QxT+yVkivxIqW0Y4VlO2XSDPofBAqoJ1qJxgH9eiUDLv50Rixij2cDuEfx4M6DpD9UGZpRhT5Q8qg==
 
-blueimp-file-upload@^9.30.0:
-  version "9.31.0"
-  resolved "https://registry.yarnpkg.com/blueimp-file-upload/-/blueimp-file-upload-9.31.0.tgz#54a68e40ac6670d566e1c80a95fbfe2627e9578a"
-  integrity sha512-/YYWY9DwRlqdUWoBqi/bW9+dzVVvCl+gIiRDJGAsT4fe4k2j2f0d11UfFM9P6iLWetQUWeTwH0pnhwlubYzDHA==
+blueimp-file-upload@^10.32.0:
+  version "10.32.0"
+  resolved "https://registry.yarnpkg.com/blueimp-file-upload/-/blueimp-file-upload-10.32.0.tgz#897c91f813ccf4b6cd14db2da3da237ce433e04e"
+  integrity sha512-3WMJw5Cbfz94Adl1OeyH+rRpGwHiNHzja+CR6aRWPoAtwrUwvP5gXKo0XdX+sdPE+iCU63Xmba88hoHQmzY8RQ==
   optionalDependencies:
-    blueimp-canvas-to-blob "3.5.0"
-    blueimp-load-image "2.12.2"
-    blueimp-tmpl "3.6.0"
+    blueimp-canvas-to-blob "3"
+    blueimp-load-image "5"
+    blueimp-tmpl "3"
 
-blueimp-load-image@2.12.2:
-  version "2.12.2"
-  resolved "https://registry.yarnpkg.com/blueimp-load-image/-/blueimp-load-image-2.12.2.tgz#6a17598aab858d4fbf01543e0631141b51057c87"
-  integrity sha1-ahdZiquFjU+/AVQ+BjEUG1EFfIc=
+blueimp-load-image@5:
+  version "5.15.0"
+  resolved "https://registry.yarnpkg.com/blueimp-load-image/-/blueimp-load-image-5.15.0.tgz#5a1c42e53bf3adac27fbb08faf46bd1c1c304c82"
+  integrity sha512-sjaRkHPTLPcz1NIilZu2w6C2WiZBqCQ4QIAfcO+PFS9duAOomPUpnMwfGpiHQW3MUREZZ/0pEgjlrl6wQB5bAg==
 
-blueimp-tmpl@3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/blueimp-tmpl/-/blueimp-tmpl-3.6.0.tgz#a4910975d042e2bc03ba77f0e62d04f1548a524c"
-  integrity sha1-pJEJddBC4rwDunfw5i0E8VSKUkw=
+blueimp-tmpl@3:
+  version "3.20.0"
+  resolved "https://registry.yarnpkg.com/blueimp-tmpl/-/blueimp-tmpl-3.20.0.tgz#bed897db362c70d3740e0ad1020ce84bfa15ceaa"
+  integrity sha512-g6ln9L+VX8ZA4WA8mgKMethYH+5teroJ2uOkCvcthy9Y9d9LrQ42OAMn+r3ECKu9CB+xe9GOChlIUJBSxwkI6g==
 
 body@^5.1.0:
   version "5.1.0"
